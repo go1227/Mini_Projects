@@ -1,9 +1,9 @@
 # Ophthalmic Astigmatism Conversion
 Routine that provides a simplified calculation for ophthalmic astigmatism purposes
 
-###Input sample:
+Input sample:
 
-######-------------------------
+-------------------------
 - Enter the SPHERE value: -3.75
 - Enter the CYLINDER value: -2.25
 - Enter the AXIS value: 145
