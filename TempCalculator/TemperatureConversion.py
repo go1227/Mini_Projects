@@ -1,6 +1,6 @@
 __author__ = "Gil Ortiz"
 __version__ = "1.0"
-__date_last_modification__ = "5/22/2019"
+__date_last_modification__ = "5/22/2021"
 __python_version__ = "3"
 __notes__ = "PEP8 compliant|command line execution"
 
